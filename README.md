@@ -1,4 +1,4 @@
-# Fundamentos de Tecnologia de Computadores
+# Fundamentos de Tecnología de Computadores
 
 Este repositorio almacena las prácticas realizadas durante el curso 2018/2019 para la asignatura [FUNDAMENTOS DE TECNOLOGÍA DE COMPUTADORES (780002)](https://www.uah.es/es/estudios/estudios-oficiales/grados/asignatura/Fundamentos-de-Tecnologia-de-Computadores-780002/) del departamento Automática de la Universidad de Alcalá.
 
